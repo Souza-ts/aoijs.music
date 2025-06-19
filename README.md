@@ -1,4 +1,4 @@
-# aoi-music
+# aoijs.music
 
 Advanced music package for aoi.js with multi-platform support (YouTube, Spotify, SoundCloud and more).
 
@@ -13,7 +13,7 @@ Advanced music package for aoi.js with multi-platform support (YouTube, Spotify,
 ## Installation
 
 ```bash
-npm install aoi-music
+npm install aoi-js.music
 ```
 
 ## Basic Usage
