@@ -1,0 +1,26 @@
+{
+  "name": "aoijs.music",
+  "version": "1.0.0",
+  "description": "Advanced music package for aoi.js bots",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoi.js",
+    "discord",
+    "music",
+    "bot"
+  ],
+  "author": "Souza",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "play-dl": "^1.9.7",
+    "soundcloud-scraper": "^5.0.3",
+    "spotify-url-info": "^3.2.18"
+  },
+  "peerDependencies": {
+    "aoi.js": "^6.10.3"
+  }
+}
